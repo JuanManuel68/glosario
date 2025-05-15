@@ -54,3 +54,9 @@
     li {
       margin-bottom: 8px;
     }
+    button {
+      background-color: #ffffff;
+      border-radius: 10px;
+      padding: 3cqmin;
+      color: #3498db;
+    }
